@@ -2,20 +2,7 @@
 
 ## 本项目包含一系列 Jetpack Compose 核心功能的实践案例，涵盖绘图、手势、动画等高级特性,以及首页UI搭建和嵌套水平分页布局。
 
-### 功能模块一览 
-
-[//]: # (## 示例名称	核心技术点	                可视化类型	关键依赖库)
-[//]: # (## 主题系统	动态颜色/暗黑模式/状态栏控制	    UI一致性框架	androidx.compose.material3)
-[//]: # (## 类型安全路由/NavHost控制	            应用路由系统	androidx.navigation.compose)
-[//]: # (## 底部导航	Scaffold集成/沉浸式处理	    主框架导航	androidx.compose.material)
-[//]: # (## 列表优化	懒加载/差分更新	            高性能列表	androidx.compose.foundation)
-[//]: # (## 分页系统	无限轮播/自动播放	            内容浏览	    com.google.accompanist.pager)
-[//]: # (## 折线图	Canvas精确绘制/坐标映射	    数据可视化	-	-)
-[//]: # (## 横向滚动	horizontalScroll布局优化	    交互布局	    -	-)
-[//]: # (## 画板	    Path动态绘制/手势追踪	                    -	-)
-[//]: # (## 拖拽手势	detectDragGestures位移计算	手势交互	    -	-)
-[//]: # (## 变形手势	detectTransformGestures矩阵变换  高级手势	-	-)
-[//]: # (## 状态动画	animate*AsState声明式动画	    现代动画	    androidx.compose.animation	)
+### 功能模块一览
 
 
 #### 主题系统：动态色彩引擎，自动适配Android 12+动态色彩
@@ -134,3 +121,19 @@
             }
         }
 
+#### 示例名称	核心技术点	                可视化类型	关键依赖库
+[//]: # (#### 主题系统	动态颜色/暗黑模式/状态栏控制	    UI一致性框架	androidx.compose.material3)
+
+[//]: # (#### 类型安全路由/NavHost控制	            应用路由系统	androidx.navigation.compose)
+
+[//]: # (#### 底部导航	Scaffold集成/沉浸式处理	    主框架导航	androidx.compose.material)
+
+[//]: # (#### 列表优化	懒加载/差分更新	            高性能列表	androidx.compose.foundation)
+
+[//]: # (#### 分页系统	无限轮播/自动播放	            内容浏览	    com.google.accompanist.pager)
+#### 折线图	Canvas精确绘制/坐标映射	    数据可视化	-	-
+#### 横向滚动	horizontalScroll布局优化	    交互布局	    -	-
+#### 画板	    Path动态绘制/手势追踪	                    -	-
+#### 拖拽手势	detectDragGestures位移计算	手势交互	    -	-
+#### 变形手势	detectTransformGestures矩阵变换  高级手势	-	-
+#### 状态动画	animate*AsState声明式动画	    现代动画	    androidx.compose.animation	
