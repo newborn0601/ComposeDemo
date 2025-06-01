@@ -121,7 +121,7 @@
             }
         }
 
-#### 示例名称	核心技术点	                可视化类型	关键依赖库
+[//]: # (#### 示例名称	核心技术点	                可视化类型	关键依赖库)
 [//]: # (#### 主题系统	动态颜色/暗黑模式/状态栏控制	    UI一致性框架	androidx.compose.material3)
 
 [//]: # (#### 类型安全路由/NavHost控制	            应用路由系统	androidx.navigation.compose)
@@ -131,9 +131,10 @@
 [//]: # (#### 列表优化	懒加载/差分更新	            高性能列表	androidx.compose.foundation)
 
 [//]: # (#### 分页系统	无限轮播/自动播放	            内容浏览	    com.google.accompanist.pager)
-#### 折线图	Canvas精确绘制/坐标映射	    数据可视化	-	-
-#### 横向滚动	horizontalScroll布局优化	    交互布局	    -	-
-#### 画板	    Path动态绘制/手势追踪	                    -	-
-#### 拖拽手势	detectDragGestures位移计算	手势交互	    -	-
-#### 变形手势	detectTransformGestures矩阵变换  高级手势	-	-
-#### 状态动画	animate*AsState声明式动画	    现代动画	    androidx.compose.animation	
+####  小组件	  	
+##### 折线图:	Canvas精确绘制/坐标映射	  	
+##### 横向滚动:horizontalScroll布局优化	       
+##### 画板: Path动态绘制/手势追踪	                   
+##### 拖拽手势	:detectDragGestures位移计算	   
+##### 变形手势	:detectTransformGestures矩阵变换  
+##### 状态动画	:animate*AsState声明式动画	   
